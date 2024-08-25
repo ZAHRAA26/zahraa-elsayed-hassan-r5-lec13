@@ -9,6 +9,7 @@
     width: 35%;
     height: 79%;
     margin: auto;
+    justify-content: center;
 }
 
 .checkBoxDiv {
@@ -33,7 +34,6 @@
     row-gap: 10px;
     /* Increase gap between labels and inputs */
     text-align: left;
-    flex: 1;
 }
 
 input[type='radio'] {
