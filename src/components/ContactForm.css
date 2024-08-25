@@ -67,7 +67,7 @@ button {
     .formContainer {
         width: 90%;
         overflow: hidden;
-        height: 85%;
+        height: fit-content;
     }
 
     .d-row {
